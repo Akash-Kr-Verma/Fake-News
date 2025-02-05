@@ -1,0 +1,11 @@
+Flask==2.0.1
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+
+Open terminal and download - python -m pip install pandas numpy scikit-learn
+                             python -m pip show pandas numpy scikit-learn
+
+
+Download data sheet (fake.csv , true.csv) from - https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
